@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PlannerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ACTIVE_PROFILES" value="db_username= root; db_password= 123456789" />
+    <option name="ALTERNATIVE_JRE_PATH" value="openjdk-17" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <module name="PlannerApp" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.plannerapp.PlannerApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
